@@ -29,11 +29,12 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    git clone <repository-url>
    
-2.Navigate to the Project Directory:
+2.**Navigate to the Project Directory**:
 cd <project-directory>
 
-3.Install Dependencies: Use npm or yarn to install the required packages:
+3.**Install Dependencies: Use npm or yarn to install the required packages**:
 npm install
-4.Run the Server: Start the server locally:
+
+4.**Run the Server: Start the server locally**:
 node server.js
 
