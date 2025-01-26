@@ -38,3 +38,9 @@ npm install
 4.**Run the Server: Start the server locally**:
 node server.js
 
+**Images**
+![image](https://github.com/user-attachments/assets/1f3e80a6-5664-49d5-86fc-7cf1e35c673b)
+
+![image](https://github.com/user-attachments/assets/2f32ce56-627b-485a-b1fd-a21ecf38eab1)
+
+
